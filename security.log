@@ -1,0 +1,23 @@
+event=test_log ip=127.0.0.1 endpoint=/test user=anon
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=validation_failed ip=127.0.0.1 endpoint=/api/payment-records/ user=None fingerprint=4cf9c8239f18 error={'card_number': [ErrorDetail(string='Card number must contain digits only.', code='invalid')]}
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=validation_failed ip=127.0.0.1 endpoint=/api/payment-records/ user=None fingerprint=4cf9c8239f18 error={'card_number': [ErrorDetail(string='Card number must contain digits only.', code='invalid')]}
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=validation_failed ip=127.0.0.1 endpoint=/api/payment-records/ user=None fingerprint=4cf9c8239f18 error={'card_number': [ErrorDetail(string='Card number must contain digits only.', code='invalid')]}
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
+event=rate_limit_exceeded ip=127.0.0.1 endpoint=/api/payment-records/ user=None
